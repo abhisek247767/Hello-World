@@ -53,6 +53,7 @@ Here’s an example of how to contribute:
 4. Submit your pull request! 🙌
 
 ## Contribution Guidelines 📋
+- **Help Others** One person may only contribute one "Hello World" program in any one language that is not already included in the repository
 - **File Naming**: Ensure your file extension matches the programming language you’re using.
 - **Code Clarity**: Use clear and concise code, adhering to best practices for your chosen language.
 - **Originality**: Avoid submitting identical versions of existing "Hello World" programs in the repository. Aim to add something unique! 🌟

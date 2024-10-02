@@ -4,14 +4,14 @@ Welcome to the **Hello World Program Repository**! 🎉 This repository is a div
 
 ## Table of Contents 📚
 - [About This Project](#about-this-project-)
-- [How to Contribute](#how-to-contribute)
-- [Example Contribution](#example-contribution)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Coding Standards](#coding-standards)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
-- [Project Setup](#project-setup)
-- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+- [How to Contribute](#how-to-contribute-)
+- [Example Contribution](#example-contribution-)
+- [Contribution Guidelines](#contribution-guidelines-)
+- [Coding Standards](#coding-standards-)
+- [Code of Conduct](#code-of-conduct-)
+- [License](#license-)
+- [Project Setup](#project-setup-)
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
 - [Follow Me? 🔔](#follow-me-)
 
 ## About This Project 💡

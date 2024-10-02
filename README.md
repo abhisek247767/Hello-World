@@ -3,7 +3,7 @@
 Welcome to the **Hello World Program Repository**! 🎉 This repository is a diverse collection of "Hello World" programs written in various programming languages. Our goal is to showcase the simplest code snippets, assist new learners, and create an inviting space for everyone to contribute. 🚀
 
 ## Table of Contents 📚
-- [About This Project](#about-this-project)
+- [About This Project](#about-this-project-)
 - [How to Contribute](#how-to-contribute)
 - [Example Contribution](#example-contribution)
 - [Contribution Guidelines](#contribution-guidelines)
@@ -14,7 +14,7 @@ Welcome to the **Hello World Program Repository**! 🎉 This repository is a div
 - [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 - [Follow Me? 🔔](#follow-me-)
 
-## About This Project💡
+## About This Project 💡
 This project is designed for developers of all skill levels! Whether you’re just starting out or are an experienced programmer, you can help expand our collection by contributing your unique "Hello World" implementation. Let's celebrate programming together! 🎊
 
 ## How to Contribute 🤝

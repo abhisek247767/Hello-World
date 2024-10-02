@@ -59,7 +59,7 @@ Here’s an example of how to contribute:
 - **Originality**: Avoid submitting identical versions of existing "Hello World" programs in the repository. Aim to add something unique! 🌟
 - **Beginner-Friendliness**: Keep your code simple and accessible for newcomers.
 
-## Coding Standards ⚙️
+## Coding Standards ⚙  
 - Follow the conventions of the programming language you are using (e.g., naming conventions, indentation).
 - Prioritize readability and maintainability. Use meaningful variable names and consistent formatting.
 
@@ -74,7 +74,7 @@ For a more detailed description of our community standards, please refer to the 
 ## License 📄
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code in accordance with the terms of this license.
 
-## Project Setup 🛠️
+## Project Setup 🛠 
 To get started with your local development environment, clone the repository using:
 
 ```bash

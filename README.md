@@ -3,15 +3,15 @@
 Welcome to the **Hello World Program Repository**! 🎉 This repository is a diverse collection of "Hello World" programs written in various programming languages. Our goal is to showcase the simplest code snippets, assist new learners, and create an inviting space for everyone to contribute. 🚀
 
 ## Table of Contents 📚
-- [About This Project](#about-this-project)
-- [How to Contribute](#how-to-contribute)
-- [Example Contribution](#example-contribution)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Coding Standards](#coding-standards)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
-- [Project Setup](#project-setup)
-- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+- [About This Project](#about-this-project-)
+- [How to Contribute](#how-to-contribute-)
+- [Example Contribution](#example-contribution-)
+- [Contribution Guidelines](#contribution-guidelines-)
+- [Coding Standards](#coding-standards-)
+- [Code of Conduct](#code-of-conduct-)
+- [License](#license-)
+- [Project Setup](#project-setup-)
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
 - [Follow Me? 🔔](#follow-me-)
 
 ## About This Project 💡
@@ -59,7 +59,7 @@ Here’s an example of how to contribute:
 - **Originality**: Avoid submitting identical versions of existing "Hello World" programs in the repository. Aim to add something unique! 🌟
 - **Beginner-Friendliness**: Keep your code simple and accessible for newcomers.
 
-## Coding Standards ⚙️
+## Coding Standards ⚙  
 - Follow the conventions of the programming language you are using (e.g., naming conventions, indentation).
 - Prioritize readability and maintainability. Use meaningful variable names and consistent formatting.
 
@@ -74,7 +74,7 @@ For a more detailed description of our community standards, please refer to the 
 ## License 📄
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code in accordance with the terms of this license.
 
-## Project Setup 🛠️
+## Project Setup 🛠 
 To get started with your local development environment, clone the repository using:
 
 ```bash

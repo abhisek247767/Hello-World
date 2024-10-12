@@ -1,2 +1,2 @@
-# hello_world.tcl
+# This program is written in Tcl
 puts "Hello, World!"

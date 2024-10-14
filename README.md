@@ -1,4 +1,5 @@
 # Hello World Program Repository 🌍👋
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 Welcome to the **Hello World Program Repository**! 🎉 This repository is a diverse collection of "Hello World" programs written in various programming languages. Our goal is to showcase the simplest code snippets, assist new learners, and create an inviting space for everyone to contribute. 🚀
 

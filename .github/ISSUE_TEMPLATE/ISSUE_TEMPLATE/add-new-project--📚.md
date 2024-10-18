@@ -8,15 +8,13 @@ assignees: ''
 ---
 
 🟢 Title :
-🟢 Tech stack :
-🟢 Objective :
+🟢 Language ::
 🟢 Summary :
 
 
 ***********************************************************************
 
-✅ Details to Include When Taking the Issue:
-Name :
+✅ Name of the conributer :
 
 ***********************************************************************
 

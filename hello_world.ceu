@@ -1,0 +1,1 @@
+output _printf("Hello, World!\n");

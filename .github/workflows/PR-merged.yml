@@ -2,6 +2,7 @@ name: Auto Comment on PR Merge
 on:
   pull_request:
     types: [closed]
+
 jobs:
   comment:
     runs-on: ubuntu-latest
@@ -27,7 +28,7 @@ jobs:
         EOF
         )
         RESPONSE=$(curl -X POST \
-          -H "Authorization: Bearer $GH_PAT" \
+          -H "Authorization: token $GH_PAT" \  # Use 'token' instead of 'Bearer'
           -H "Accept: application/vnd.github.v3+json" \
           "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments" \
           -d "$COMMENT" \

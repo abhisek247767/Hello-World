@@ -1,1 +1,2 @@
+-- This program is written in Ceu and it prints "Hello, World!" to the output
 output _printf("Hello, World!\n");

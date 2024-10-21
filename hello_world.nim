@@ -1,1 +1,3 @@
-echo "Hello,World!"  # Printing "Hello,World!" to console
+hello_world.nim
+echo "Hello, World!"  # Printing "Hello, World!" to console
+

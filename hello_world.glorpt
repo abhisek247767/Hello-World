@@ -1,0 +1,8 @@
+
+let message = "Hello, World!"
+
+procedure printMessage() {
+    output(message)
+}
+
+invoke printMessage

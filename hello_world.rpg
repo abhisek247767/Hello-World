@@ -1,0 +1,3 @@
+Dcl-S HelloMsg VARCHAR(50) Inz('Hello, World!');
+
+*Display HelloMsg

@@ -1,0 +1,2 @@
+// Zorblax Hello World Program
+greet: "Hello, World!" -> display;

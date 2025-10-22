@@ -1,2 +1,4 @@
+# Dragon Hello World Program
+# Description: Simple Hello World in Dragon language
 
-show "Hello, World from Dragon! 🐉"
+show "Hello, World!"

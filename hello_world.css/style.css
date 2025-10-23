@@ -1,0 +1,10 @@
+/* CSS Hello World */
+body::before {
+  content: "Hello World!";
+  display: block;
+  text-align: center;
+  font-size: 2rem;
+  font-family: Arial, sans-serif;
+  margin-top: 20vh;
+  color: #2b34dd; /* bright green text */
+}

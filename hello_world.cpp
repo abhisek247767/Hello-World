@@ -1,7 +1,12 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
+// Defined a function
+void hello_world(){
+    cout << "Hello, World!"<<endl;
+}
+
 int main() {
-    cout << "Hello, World!";
+    hello_world();    // Calls the function
     return 0;
 }

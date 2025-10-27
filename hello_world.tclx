@@ -1,0 +1,4 @@
+# The first line is a comment in TclX
+# 'puts' is used to print text to the console
+
+puts "Hello, World!"
